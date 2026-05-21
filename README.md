@@ -1,5 +1,5 @@
 # 📱 Mobile Sales Data Analysis
-This project uses Power BI to analyze mobile sales data and generate actionable business insights from transactional records.
+This project analyzes mobile sales data and generate actionable business insights from transactional records.
 
 ---
 
@@ -91,9 +91,11 @@ The dataset contains approximately **3,800 mobile sales transactions from 2021-2
 ---
 
 ## 📊 Dashboards & Key Insights  
+---
+### 1. Executive Sales Overview Dashboard  
 
-![alt text](images/executive_sales_overview_dashboard.png)### 1. Executive Sales Overview Dashboard  
 
+![alt text](images/executive_sales_overview_dashboard.png)
 
 **Purpose:** High-level business performance tracking  
 
@@ -151,7 +153,7 @@ The dataset contains approximately **3,800 mobile sales transactions from 2021-2
 - 🏙️ Tier 1 cities contribute **53%+ revenue** 
 
 
-- 📉 Despite strong performance in 2021 and 2022, and overall strong results across the analysis period, sales from Nov 2022 to 2024 show a decline. This drop suggests potential market saturation or shifting customer behavior, requiring deeper investigation into product and regional trends.
+- 📉 Despite strong performance in 2021 and 2022, and overall strong results across the analysis period, there is a decline in sales November 2022 onwards. This drop suggests potential market saturation or shifting customer behavior, requiring deeper investigation into product and regional trends.
 ---
 
 ## 📌 Recommendations  
@@ -179,9 +181,9 @@ It helps businesses:
 
 ## 🚀 How to Run This Project
 
-- Clone the repository using: `git clone <repository-link>`
-- Navigate to the project folder using: `cd <project-folder-name>`
-- Open the `.pbix` file in Power BI Desktop
+- Clone the repository using: `git clone https://github.com/sapnadevi-d/mobile-sales-data-analysis-powerbi.git`
+- Navigate to the project folder using: `cd mobile-sales-analysis`
+- Open the `mobile_sales_analysis_dashboard.pbix` file in Power BI Desktop
 - Go to **Home → Transform Data → Data Source Settings**
 - Click on **Change Source** and browse to the project data folder (Excel)
 - Select **Close & Apply**
