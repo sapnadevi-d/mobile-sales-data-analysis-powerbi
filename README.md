@@ -182,7 +182,7 @@ It helps businesses:
 ## 🚀 How to Run This Project
 
 - Clone the repository using: `git clone https://github.com/sapnadevi-d/mobile-sales-data-analysis-powerbi.git`
-- Navigate to the project folder using: `cd mobile-sales-analysis`
+- Navigate to the project folder using: `cd mobile-sales-data-analysis-powerbi`
 - Open the `mobile_sales_analysis_dashboard.pbix` file in Power BI Desktop
 - Go to **Home → Transform Data → Data Source Settings**
 - Click on **Change Source** and browse to the project data folder (Excel)
